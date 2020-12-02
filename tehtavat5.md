@@ -24,7 +24,7 @@ Tehtävä 6 käsittelee retrospektiivitekniikoita.
 
 ### Typoja tai epäselvyyksiä tehtävissä?
 
-Tee [korjausehdotus](/osa0#typoja-materiaalissa) editoimalla [tätä](https://github.com/ohjelmistotuotanto-hy/ohjelmistotuotanto-hy.github.io/blob/main/tehtavat5.md) tiedostoa GitHubissa.
+Tee [korjausehdotus](/osa0#typoja-materiaalissa) editoimalla [tätä](https://github.com/ohjelmistotuotanto-hy/ohjelmistotuotanto-hy.github.io/edit/master/tehtavat5.md) tiedostoa GitHubissa.
 
 ### Tehtävien palauttaminen
 
