@@ -21,7 +21,7 @@ Tämän viikon [monivalintatehtävät](https://study.cs.helsinki.fi/stats/course
 
 ### Typoja tai epäselvyyksiä tehtävissä?
 
-Tee [korjausehdotus](/osa0#typoja-materiaalissa) editoimalla [tätä](https://github.com/ohjelmistotuotanto-hy/ohjelmistotuotanto-hy.github.io/blob/main/tehtavat6.md) tiedostoa GitHubissa.
+Tee [korjausehdotus](/osa0#typoja-materiaalissa) editoimalla [tätä](https://github.com/ohjelmistotuotanto-hy/ohjelmistotuotanto-hy.github.io/edit/master/tehtavat6.md) tiedostoa GitHubissa.
 
 ### Tehtävien palauttaminen
 
@@ -158,7 +158,7 @@ Matcher m = new Or( new HasAtLeast(40, "goals"),
 );  
 ```
 
-tulee palauttaa ne, joilla on vähintään 20 maalia tai syöttöä, eli seuraava lista
+tulee palauttaa ne, joilla on vähintään 40 maalia tai 60 syöttöä, eli seuraava lista
 
 ```
 Mika Zibanejad       NYR          41 + 34 = 75
@@ -184,7 +184,7 @@ Matcher m = new And(
 ); 
 ```
 
-tulee palauttaa kaikki yli 20 pistettä tehneet jotka pelaavat jossain seuraavista joukkueista _NYI_, _NYR_ tai _NJD_. Lista näyttää seuraavalta: 
+tulee palauttaa kaikki yli 50 pistettä tehneet jotka pelaavat jossain seuraavista joukkueista _NYI_, _NYR_ tai _BOS_. Lista näyttää seuraavalta: 
 
 ```
 Brock Nelson         NYI          26 + 28 = 54
