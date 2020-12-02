@@ -22,7 +22,7 @@ Tehtävissä 1-3 tutustutaan siihen miten gradle-sovelluksiin lisätään ulkois
 
 ### Typoja tai epäselvyyksiä tehtävissä?
 
-Tee [korjausehdotus](/osa0#typoja-materiaalissa) editoimalla [tätä](https://github.com/ohjelmistotuotanto-hy/ohjelmistotuotanto-hy.github.io/blob/main/tehtavat3.md) tiedostoa GitHubissa.
+Tee [korjausehdotus](/osa0#typoja-materiaalissa) editoimalla [tätä](https://github.com/ohjelmistotuotanto-hy/ohjelmistotuotanto-hy.github.io/blob/master/tehtavat3.md) tiedostoa GitHubissa.
 
 ### Tehtävien palauttaminen
 
